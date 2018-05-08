@@ -6,14 +6,14 @@
     <NavigationInfo DEF='headlight' headlight='true' type='"EXAMINE"'/>
     <Viewpoint DEF='Camera02' description='Camera002-201' orientation='1 0 0 -1.571' position='-0.4581 100 0.5142' fieldOfView='0.244'/>
     <Viewpoint DEF='Camera03' description='Camera003-202' orientation='0 -0.7071 0.7071 -3.142' position='0.09372 -70.71 0.2027' fieldOfView='0.382'/>
-    <PointLight DEF='Omni01' intensity='0.5' location='21.18 -5.723 9.256' radius='211.7'/>
-    <PointLight DEF='Omni02' intensity='0.5' location='21.17 -5.749 -10.84' radius='211.7'/>
-    <PointLight DEF='Omni03' intensity='0.5' location='-21.23 -5.626 -11.11' radius='211.7'/>
-    <PointLight DEF='Omni04' intensity='0.5' location='-21.23 -5.645 9.37' radius='211.7'/>
-    <PointLight DEF='Omni05' intensity='0.5' location='21.18 7.852 9.256' radius='211.7'/>
-    <PointLight DEF='Omni06' intensity='0.5' location='21.17 7.837 -10.84' radius='211.7'/>
-    <PointLight DEF='Omni07' intensity='0.5' location='-21.23 7.948 -11.11' radius='211.7'/>
-    <PointLight DEF='Omni08' intensity='0.5' location='-21.23 7.956 9.37' radius='211.7'/>
+    <PointLight DEF='Omni01' intensity='0.7' location='21.18 -5.723 9.256' radius='211.7'/>
+    <PointLight DEF='Omni02' intensity='0.7' location='21.17 -5.749 -10.84' radius='211.7'/>
+    <PointLight DEF='Omni03' intensity='0.7' location='-21.23 -5.626 -11.11' radius='211.7'/>
+    <PointLight DEF='Omni04' intensity='0.7' location='-21.23 -5.645 9.37' radius='211.7'/>
+    <PointLight DEF='Omni05' intensity='0.7' location='21.18 7.852 9.256' radius='211.7'/>
+    <PointLight DEF='Omni06' intensity='0.7' location='21.17 7.837 -10.84' radius='211.7'/>
+    <PointLight DEF='Omni07' intensity='0.7' location='-21.23 7.948 -11.11' radius='211.7'/>
+    <PointLight DEF='Omni08' intensity='0.7' location='-21.23 7.956 9.37' radius='211.7'/>
     <SpotLight DEF='Spot01' intensity='0.2' beamWidth='0.7505' cutOffAngle='0.7854' direction='-0.006601 -0.9338 0.3578' location='1.928 119.1 -42.35' radius='211.7'/>
     <Transform DEF='nes-216'>
       <TimeSensor DEF='Rotation' enabled='false' cycleInterval='12' loop='true'/>
