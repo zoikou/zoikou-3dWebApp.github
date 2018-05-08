@@ -166,13 +166,13 @@
     <nav class="navbar navbar-expand-sm footer">
           <div class="container-fluid">   
               <div class="navbar-text float-left copyright">
-                  <p><span class="align-baseline"></span>&copy 2018 Mobile Web 3D Applications </span></p>
+                  <p><span class="align-baseline"></span>&copy 2018 Mobile Web 3D Applications/</span> <a class="align-baseline" href="../assets/Contents.zip">Download Contents</a> </p>
               </div>
               <div class="navbar-text float-right social">
                   <a href="#"><i class="fab fa-facebook-square fa-2x"></i></a>
                   <a href="#"><i class="fab fa-twitter fa-2x"></i></a>
                   <a href="#"><i class="fab fa-google-plus fa-2x"></i></a>
-                  <a href="#"><i class="fab fa-github-square fa-2x"></i></a>
+                  <a href="https://github.com/zoikou/zoikou-3dWebApp.github/tree/master/mobile3dapp/assignment"><i class="fab fa-github-square fa-2x"></i></a>
               </div>
           </div>
       </nav>

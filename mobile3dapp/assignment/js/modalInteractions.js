@@ -1,3 +1,4 @@
+// Code adapted by w3 schools
 // Open the Modal
 function openModal() {
   document.getElementById('myModal').style.display = "block";

@@ -87,7 +87,10 @@
         <li class="breadcrumb-item active">About</li>
       </ol>
 
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      <p>This website was made as part of the module Mobile Web3D Applications, at the university of Sussex,UK. Its purpose is to illustrate the integration of 3D elements into the Web browser, using the X3D technologies.</p>
+      <p>The chosen theme of Nintendo's vintage consoles is within the framework of adapting a virtual museum, and has nothing to do with any original relevancy to Nintendo. </p>
+      <p>You can download the contents of this website, as well as the statement of originallity, on the footer where is stating the relevant link. The source code can be found in a github reposiroty and accessed by clicking the github icon, located on the footer likewise.
+      </p>
 
     </div>
     <!-- /.container -->
@@ -98,13 +101,13 @@
     <nav class="navbar navbar-expand-sm footer">
           <div class="container-fluid">   
               <div class="navbar-text float-left copyright">
-                  <p><span class="align-baseline"></span>&copy 2018 Mobile Web 3D Applications </span></p>
+                  <p><span class="align-baseline"></span>&copy 2018 Mobile Web 3D Applications/</span> <a class="align-baseline" href="../assets/Contents.zip">Download Contents</a> </p>
               </div>
               <div class="navbar-text float-right social">
                   <a href="#"><i class="fab fa-facebook-square fa-2x"></i></a>
                   <a href="#"><i class="fab fa-twitter fa-2x"></i></a>
                   <a href="#"><i class="fab fa-google-plus fa-2x"></i></a>
-                  <a href="#"><i class="fab fa-github-square fa-2x"></i></a>
+                  <a href="https://github.com/zoikou/zoikou-3dWebApp.github/tree/master/mobile3dapp/assignment"><i class="fab fa-github-square fa-2x"></i></a>
               </div>
           </div>
       </nav>
