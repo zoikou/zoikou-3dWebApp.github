@@ -118,7 +118,7 @@
       <!-- /.row -->
 
       <!-- Contact Form -->
-      <!-- In order to set the email address and subject line for the contact form go to the bin/contact_me.php file. -->
+      
       <div class="row">
         <div class="col-lg-8 mb-4">
           <h3>Send me a Message</h3>

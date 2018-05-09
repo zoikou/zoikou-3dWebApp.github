@@ -25,7 +25,7 @@ class Model {
         	print new Exception($e->getMessage());
     	}
 	}
-	
+	// Method to create a table in the database
 	public function dbCreateTable()
 	{
 		try {
@@ -37,7 +37,7 @@ class Model {
 		}
 		$this->dbhandle = NULL;
 	}
-	
+	// Method to insert data in the table
 	public function dbInsertData()
 	{
 		try{
@@ -57,6 +57,7 @@ class Model {
 		}
 		$this->dbhandle = NULL;
 	}
+	// Method to get JSON data
 	public function dbGetData(){
 		try{
 			// Prepare a statement to get all records from the model table
@@ -70,8 +71,7 @@ class Model {
 			// Use PDO fetch() to retrieve the results from the database using a while loop
 			// Use a while loop to loop through the rows	
 			while ($data = $stmt->fetch()) {
-				// Don't worry about this, it's just a simple test to check we can output a value from the database in a while loop
-				// echo '</br>' . $data['x3dModelTitle'];
+				
 				// Write the database conetnts to the results array for sending back to the view
 				$result[$i]['model'] = $data['model'];
 				$result[$i]['x3dModelTitle'] = $data['x3dModelTitle'];
@@ -91,7 +91,7 @@ class Model {
 		// Send the response back to the view
 		return $result;
 	}
-	
+	//Method that creates JSON data 
 	public function createJSON()
 	{
 		echo '{"pageTextData": [

@@ -38,7 +38,7 @@
           <!-- Brand -->
           <div class="logo">
             <a class="navbar-brand" href="#">
-             <h1>Nintendo</h1>
+             <h1 >Nintendo</h1>
             </a>
           </div>
 
@@ -124,7 +124,7 @@
                  
            </div>
    
-           <!-- About Contents -->
+           <!-- Model Contents -->
            <div class = "col-lg-4">
             <div class="card-group">
                <div class="card text-left model-control">
